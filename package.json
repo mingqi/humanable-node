@@ -1,0 +1,20 @@
+{
+  "name": "humanable",
+  "description": "format and parse number for human readable",
+  "homepage": "https://github.com/mingqi/humanable-node",
+  "keywords": [
+    "human", "format", "parse", "size", "duration"
+  ],
+  "author": "Mingqi Shao <shaomq@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingqi/humanable-node.git"
+  },
+  "main": "humanable.js",
+  "version": "0.0.2",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
